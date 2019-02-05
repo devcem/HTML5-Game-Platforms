@@ -14,6 +14,7 @@ This Github repository provides the list of HTML5 Game platforms.
 | http://minijuegos.com  | 6,774  |
 | http://a10.com  | 7,476  |
 | https://pacogames.com  | 7,675  |
+| http://www.addictinggames.com/  | 9,231  |
 | http://iogames.space/  | 14,314  |
 | http://lagged.com  | 30,250  |
 | http://titotu.io  | 92,204  |

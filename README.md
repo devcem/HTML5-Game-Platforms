@@ -26,6 +26,7 @@ This Github repository provides the list of HTML5 Game platforms.
 | http://www.allgames.io  | 157,216  |
 | http://io.games/  | 199,466  |
 | https://m28.studio  | 422,944  |
+| https://insanegames.io | 621,203 |
 | https://supegames.com  | 808,035  |
 | https://iogames.top/  | 1,402,515  |
 | http://www.gamezoo.net  | 2,173,687  |

@@ -17,6 +17,7 @@ This Github repository provides the list of HTML5 Game platforms.
 | https://pacogames.com  | 7,675  |
 | http://www.addictinggames.com/  | 9,231  |
 | http://iogames.space/  | 14,314  |
+| http://gamemonetize.com  | 21,858  |
 | http://lagged.com  | 30,250  |
 | http://gamedistribution.com/ | 34,133  |
 | http://io-games.io/ | 43,280  |

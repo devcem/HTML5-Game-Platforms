@@ -4,9 +4,9 @@ This Github repository provides the list of HTML5 Game platforms.
 | Site URL  | Alexa (Global) |
 | ------------- | ------------- |
 | https://poki.com/  | 454  |
-| http://vseigru.net  | 812  |
-| https://crazygames.com  | 2,329  |
-| https://itch.io  | 2,394  |
+| https://itch.io  | 1,395  |
+| https://crazygames.com  | 1,609  |
+| http://vseigru.net  | 2,753  |
 | http://www.agame.com  | 4,112  |
 | http://juegos.com  | 6,644  |
 | https://www.newgrounds.com  | 6,465  |

@@ -3,7 +3,6 @@ This Github repository provides the list of HTML5 Game platforms.
 
 | Site URL  | Alexa (Global) |
 | ------------- | ------------- |
-| https://play.cluster.ws | ????? |
 | https://poki.com/  | 454  |
 | https://itch.io  | 1,395  |
 | https://crazygames.com  | 1,609  |
@@ -34,3 +33,4 @@ This Github repository provides the list of HTML5 Game platforms.
 | http://www.gamezoo.net  | 2,173,687  |
 | https://x1p.com  | 3,387,510  |
 | https://iogames.best  | 5,942,691  |
+| https://play.cluster.ws | ????? |

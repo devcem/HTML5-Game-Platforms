@@ -22,11 +22,14 @@ This Github repository provides the list of HTML5 Game platforms.
 | http://iogames.space/  | 37,702  |
 | http://io-games.io/ | 43,280  |
 | http://a10.com  | 50,866  |
+| https://patrickgame.online | ????? |
 | https://iogames.live | 73,110  |
 | http://titotu.io  | 120,112  |
 | http://obfog.com  | 144,867  |
+| https://nuggetgames.online | ????? |
 | http://www.allgames.io  | 157,216  |
 | http://io.games/  | 199,466  |
+| https://easlygame.com | ????? |
 | https://gaminguides.com/  | 377,891  |
 | https://m28.studio  | 422,944  |
 | https://iogames.top/  | 1,402,515  |
@@ -34,3 +37,4 @@ This Github repository provides the list of HTML5 Game platforms.
 | https://x1p.com  | 3,387,510  |
 | https://iogames.best  | 5,942,691  |
 | https://play.cluster.ws | ????? |
+| https://mamengame.com | ????? |

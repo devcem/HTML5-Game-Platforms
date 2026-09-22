@@ -34,3 +34,4 @@ This Github repository provides the list of HTML5 Game platforms.
 | https://x1p.com  | 3,387,510  |
 | https://iogames.best  | 5,942,691  |
 | https://play.cluster.ws | ????? |
+| https://gamequark.io/ | N/A |
